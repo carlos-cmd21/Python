@@ -20,7 +20,7 @@ print(noestaincluida)
 mayuscula = texto.upper()
 minuscula = texto.lower()
 print(mayuscula)
-print(minuscula)
+print(minuescula)
 espacios ="         esto es un texto          "
 sinEspacios=espacios.strip()
 print(sinEspacios)
@@ -40,3 +40,4 @@ print(textodividido)
 #Normalizacion 
 texto2="Este texto tiene MAYUSCULAS y minusculas"
 print("mayusculas".lower() in texto2.lower())
+

@@ -27,5 +27,10 @@ print(enterocomplejo)
 print(flotantecomplejo)
 
 
-import random
-print(random.randrange(1,10)) #numero aleatorio entre 1 y 9
+import random as r
+
+print(r.randrange(1,10)) #numero aleatorio entre 1 y 9
+
+text = "+++-hello-++h+"
+cleaned_text = text.strip("+h-")
+print(cleaned_text)

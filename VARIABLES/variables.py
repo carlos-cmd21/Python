@@ -1,6 +1,3 @@
-from xml.etree.ElementTree import PI
-
-
 x="Esto es una variable"
 print(x)
 #las variables son case sensitive, es decir, distinguen entre mayusculas y minusculas
